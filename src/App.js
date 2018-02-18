@@ -29,9 +29,7 @@ class App extends Component {
     }
   }
 
-  approveQuoteToken() {
-
-  }
+  approveQuoteToken() {}
 
   approveBaseToken() {}
 
