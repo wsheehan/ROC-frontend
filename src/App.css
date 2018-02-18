@@ -1,0 +1,34 @@
+.App {
+  border: 1px solid black;
+  width: 40vw;
+  padding: 20px;
+}
+
+.App-header {
+  text-align: center;
+}
+
+.Book .asks, .Book .bids {
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+
+.Order span {
+  display: inline-block;
+  width: 30%;
+  text-align: right;
+  padding: 4px;
+}
+
+.Order-Header {
+  background-color: gray;
+}
+
+.NewOrder {
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.NewOrder label, .NewOrder input, .NewOrder select {
+  margin: 5px;
+}
